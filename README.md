@@ -1,6 +1,10 @@
 # skillcraft-task-2
 # Calculator App
 Name:Gopu usha sri
+Company:SKILLCRAFT TECNOLOGY 
+ID:SCT/JUN26/0275 
+Domain:ML 
+Duration:1st june to 30th june 2026
 
 
 ## Overview
